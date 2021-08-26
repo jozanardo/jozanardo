@@ -18,7 +18,6 @@
   
   <a href="https://www.facebook.com/joao.zanardo" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1076/1076990.png" target="_blank"></a> 
   <a href="https://www.instagram.com/__jozanardo_/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" target="_blank"></a>
-  <a href = "mailto:jozanardo@gmail.com"><img height="30" src="https://img-premium.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1629152369~hmac=7dda9b19e3718bfec7f712e3bec53a58" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-zanardo-b87374160/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank"></a> 
 
 </div>
