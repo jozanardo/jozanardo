@@ -10,9 +10,11 @@
   <img align="center" alt="Zanardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain.svg">
   <img align="center" alt="Zanardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain.svg">
   <img align="center" alt="Zanardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Zanardo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Zanardo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
   
-  ##
+##
  
 <div> 
   
