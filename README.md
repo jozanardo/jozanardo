@@ -13,11 +13,10 @@
   <img align="center" alt="Zanardo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Zanardo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
-  
+ 
 ##
  
 <div> 
-  
   <a href="https://www.facebook.com/joao.zanardo" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1076/1076990.png" target="_blank"></a> 
   <a href="https://www.instagram.com/__jozanardo_/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-zanardo-b87374160/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank"></a> 
