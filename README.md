@@ -15,13 +15,7 @@
 </div>
  
 ##
- 
-<div> 
-  <a href="https://www.facebook.com/joao.zanardo" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1076/1076990.png" target="_blank"></a> 
-  <a href="https://www.instagram.com/__jozanardo_/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-zanardo-b87374160/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank"></a> 
 
-</div>
 
 <!--
 **jozanardo/jozanardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
