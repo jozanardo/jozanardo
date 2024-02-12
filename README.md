@@ -1,8 +1,16 @@
- <div>
-  <a href="https://github.com/jozanardo">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jozanardo&show_icons=true&theme=dark&icon_color=2bff41&title_color=2bff41&border_color=2bff41&text_color=ffffff&include_all_commits=true&count_private=true"/>   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozanardo&theme=dark&title_color=2bff41&border_color=2bff41&text_color=ffffff"/>
-</div>
+## Hi, I'm João Zanardo 🇧🇷 
+A Brazilian software engineer has a good game and is looking to automate more of his tasks.
+
+### Experienced with:
+C#, VueJs, TypeScript, PostgreSQL, SQL Server, AWS, Python.
+### Actually Im working with: 
+C# / .NET / VueJs / Docker / AWS /  RabbitMq / SQL Server / PostgreSQL
+
+### Current learning: 
+NodeJs / TypeScript / JavaScript 
+
+<br />
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Zanardo-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-line.svg">
   <img align="center" alt="Zanardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg">
@@ -11,6 +19,8 @@
   <img align="center" alt="Zanardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg">
   <img align="center" alt="Zanardo-Aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Zanardo-Rabbit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original-wordmark.svg">
+  <img align="center" alt="Zanardo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg">
+<!-- ![](https://komarev.com/ghpvc/?username=jozanardo&color=79b8ff) -->
 </div>
  
 ##
