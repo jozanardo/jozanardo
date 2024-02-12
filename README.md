@@ -4,7 +4,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozanardo&theme=dark&title_color=2bff41&border_color=2bff41&text_color=ffffff"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Zanardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-line.svg">
+  <img align="center" alt="Zanardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg">
   <img align="center" alt="Zanardo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg">
   <img align="center" alt="Zanardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg">
   <img align="center" alt="Zanardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain.svg">
