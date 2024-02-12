@@ -1,5 +1,5 @@
 ## Hi, I'm João Zanardo 🇧🇷 
-A Brazilian software engineer has a good game and is looking to automate more of his tasks.
+A Brazilian software engineer who loves a good game and seeks to automate more of his tasks.
 
 ### Experienced with:
 C#, VueJs, TypeScript, PostgreSQL, SQL Server, AWS, Python.
