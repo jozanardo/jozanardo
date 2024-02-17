@@ -11,7 +11,7 @@ C#, VueJs, TypeScript, PostgreSQL, SQL Server, AWS, Python.
 C# / .NET / VueJs / Docker / AWS /  RabbitMq / SQL Server / PostgreSQL
 
 ### Current learning: 
-NodeJs / TypeScript / JavaScript 
+JavaScript / TypeScript /  NodeJs
 
 <br />
 
