@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm João Zanardo 🇧🇷 
-I'm a software engineer with two years of professional experience as a full-stack developer. On the backend, I work primarily with C#. Although I still don't have many projects in this language on my GitHub, I have a solid understanding of its concepts and am always looking to improve my skills in both front-end and back-end development.
+I'm a software engineer with three years of professional experience as a full-stack developer. On the backend, I work primarily with C#. Although I still don't have many projects in this language on my GitHub, I have a solid understanding of its concepts and am always looking to improve my skills in both front-end and back-end development.
 
 In my day-to-day work on the front-end, I try to implement dynamic and attractive interfaces using Vue.js. I'm constantly exploring new techniques and best practices to improve the user experience and make my apps more efficient.
 
