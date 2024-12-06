@@ -7,7 +7,7 @@ Additionally, I'm embarking on the journey of learning Node.js to expand my skil
 
 ### Experienced with:
 C#, VueJs, TypeScript, PostgreSQL, SQL Server, AWS, Python.
-### Actually Im working with: 
+### Actually I'm working with: 
 C# / .NET / VueJs / Docker / AWS /  RabbitMq / SQL Server / PostgreSQL
 
 ### Current learning: 
