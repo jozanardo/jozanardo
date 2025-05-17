@@ -6,12 +6,12 @@ In my day-to-day work on the front-end, I try to implement dynamic and attractiv
 Additionally, I'm embarking on the journey of learning Node.js to expand my skills in back-end development, exploring its potential to create robust and scalable systems.
 
 ### Experienced with:
-C#, VueJs, TypeScript, PostgreSQL, SQL Server, AWS, Python.
+C#, VueJs, TypeScript, PostgreSQL, SQL Server, Lambda , SQS, SNS, Python.
 ### Actually I'm working with: 
-C# / .NET / VueJs / Docker / AWS /  RabbitMq / SQL Server / PostgreSQL
+C# / .NET  / Docker / Lambda / SQS / SNS /  RabbitMq /  PostgreSQL
 
 ### Current learning: 
-JavaScript / TypeScript /  NodeJs
+C# / C++ / Go / NodeJs 
 
 <br />
 
